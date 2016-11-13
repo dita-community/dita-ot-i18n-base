@@ -1,5 +1,5 @@
-DITA OT With i18n Plugin Integrated 
-===================================
+DITA OT With i18n Plugin Integrated Base Definition
+===================================================
 
 This container provides an image
 of the DITA Open Toolkit with the DITA Community
